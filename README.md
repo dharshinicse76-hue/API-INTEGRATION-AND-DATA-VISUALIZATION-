@@ -21,3 +21,5 @@ API stands for Application Programming Interface. API integration refers to the 
 API integration is widely used in real world applications such as online banking, e commerce platforms, social media login systems, weather applications, and stock market services. For example, a weather application uses an API to fetch live temperature data from a remote server. This approach saves time, reduces manual data handling, and ensures real time access to information.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/8cff5521-6d82-44cc-8e66-e39a8a71bf28)
